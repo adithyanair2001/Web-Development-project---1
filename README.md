@@ -1,2 +1,2 @@
-# Web-Development-project---1
+# Web-Development Project
 A simple website showing the historical places in India.
